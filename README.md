@@ -89,4 +89,4 @@ NovaBank-PowerBI-Dashboard/
 ## Author
 
 **Aslan Rustamov**
-[GitHub](https://github.com/Aslan934) · [LinkedIn](https://www.linkedin.com/in/rustamovaslan)
+· [LinkedIn](https://www.linkedin.com/in/rustamovaslan)
